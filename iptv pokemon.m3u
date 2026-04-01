@@ -2,8 +2,7 @@
 
 Temporada 1
 
-#EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E01
-https://pkproject.net/descargas/stream/serie-ash/t01/e01/video/t01_e01.720p.m3u8
+
 #EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E02
 https://pkproject.net/descargas/epis/serie-ash/t01/t01_e02.es-la.mp4
 #EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E03
