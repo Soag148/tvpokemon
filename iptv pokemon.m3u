@@ -161,7 +161,7 @@ https://pkproject.net/descargas/epis/serie-ash/t01/t01_e79.es-la.mp4
 https://pkproject.net/descargas/epis/serie-ash/t01/t01_e80.es-la.mp4
 #EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E81
 https://pkproject.net/descargas/epis/serie-ash/t01/t01_e81.es-la.mp4
-#EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E8
+#EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E82
 https://pkproject.net/descargas/epis/serie-ash/t01/t01_e82.es-la.mp4
 #EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E83
 https://pkproject.net/descargas/epis/serie-ash/t01/t01_e83.es-la.mp4
@@ -2938,3 +2938,39 @@ https://pkproject.net/descargas/epis/serie-liko/t03/t03_e42.ja.mp4
 #EXTINF:0 group-title="Pokémon Serie de Liko Temporada 3" tvg-logo="https://pkproject.net/cdn-cgi/image/width=400/https://pkproject.net/anime/logo/2/season3_logo8.png",T01E43
 https://pkproject.net/descargas/epis/serie-liko/t03/t03_e43.ja.mp4
 
+
+
+#EXTINF:11 group-title="Tv",A&E HD
+http://154.12.107.98:8000/play/a0aj
+#EXTINF:11 group-title="Tv",AMC HD
+http://154.12.107.98:8000/play/a0cm
+#EXTINF:11 group-title="Tv",Animal Planet HD
+http://154.12.107.98:8000/play/a0ah
+#EXTINF:11 group-title="Tv",Cinecanal HD
+http://154.12.107.98:8000/play/a0bw
+#EXTINF:11 group-title="Tv",Cinemax
+http://154.12.107.98:8000/play/a07v
+#EXTINF:11 group-title="Tv",FX HD
+http://154.12.107.98:8000/play/a0cn
+#EXTINF:11 group-title="Tv",SONY HD
+http://154.12.107.98:8000/play/a0bv
+#EXTINF:11 group-title="Tv",Sony Movies HD
+http://154.12.107.98:8000/play/a0cp
+#EXTINF:11 group-title="Tv",Space
+http://154.12.107.98:8000/play/a09k
+#EXTINF:11 group-title="Tv",Star Channel
+http://154.12.107.98:8000/play/a07j
+#EXTINF:11 group-title="Tv",STAR CHANNEL HD
+http://154.12.107.98:8000/play/a0bt
+#EXTINF:11 group-title="Tv",TNT
+http://154.12.107.98:8000/play/a09s
+#EXTINF:11 group-title="Tv",TNT HD
+http://154.12.107.98:8000/play/a0ac
+#EXTINF:11 group-title="Tv",TNT Series
+http://154.12.107.98:8000/play/a09l
+#EXTINF:11 group-title="Tv",TNT Series HD
+http://154.12.107.98:8000/play/a0a3
+#EXTINF:11 group-title="Tv",Tooncast
+http://154.12.107.98:8000/play/a08h
+#EXTINF:11 group-title="Tv",WARNER HD
+http://154.12.107.98:8000/play/a0bu
