@@ -1,6 +1,8 @@
 #EXTM3U
 
 
+#EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E01
+https://pkproject.net/descargas/epis/serie-ash/t01/t01_e01.es-la.mp4
 #EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E02
 https://pkproject.net/descargas/epis/serie-ash/t01/t01_e02.es-la.mp4
 #EXTINF:0 group-title="Pokémon Temporada 1" tvg-logo="https://s3.pokemon-project.com/anime/logo/1/season1_logo8.webp",T01E03
@@ -2614,7 +2616,7 @@ https://s3.pokemon-project.com/descargas/epis/especiales/pokemon-megaevolucion/e
 
 Peliculas
 
-#EXTINF:0 group-title="Películas Pokémon Castellano" tvg-logo="https://pokemon-project.com/cdn-cgi/image/width=200/https://pokemon-
+#EXTINF:0 group-title="Películas Pokémon Castellano" tvg-logo="https://pkproject.net/cdn-cgi/image/width=200/https://pkproject.net/pelis/1/01/Poster_ES.jpg",P1 Mewtwo vs. Mew
 https://pkproject.net/descargas/stream/peliculas/1/pelicula1.master.m3u8
 #EXTINF:0 group-title="Películas Pokémon Castellano" tvg-logo="https://pokemon-project.com/cdn-cgi/image/width=200/https://pokemon-project.com/pelis/1/02/Poster_ES.jpg",P2:Poder de Uno
 https://pkproject.net/descargas/stream/peliculas/2/pelicula2.master.m3u8
